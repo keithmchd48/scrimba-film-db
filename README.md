@@ -2,8 +2,9 @@
 
 ### Project setup
 
-```
 Clone the project
+
+```
 Run npm install
 ```
 
