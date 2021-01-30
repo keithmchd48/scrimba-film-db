@@ -2,13 +2,18 @@
 
 ### Project setup
 
-Clone the project
+Clone the repo:
+
+```
+git clone git@github.com:keithmchd48/scrimba-film-db
+```
+Install dependencies:
 
 ```
 Run npm install
 ```
 
-### Compiles and hot-reloads for development
+Run the project on localhost:
 
 ```
 npm run serve
@@ -20,4 +25,4 @@ npm run serve
 
 ### Hosted on
 
-[Configuration Reference](https://cli.vuejs.org/config/).
+[Here](https://scrimba-film-db.netlify.app/).
